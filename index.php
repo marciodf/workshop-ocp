@@ -1,4 +1,4 @@
 <?php
-echo "<h1>Openshift apresentação v5 </h1> ";
+echo "<h1>Openshift apresentação Red Hat </h1> ";
 echo $_SERVER['SERVER_ADDR'];
 ?>
