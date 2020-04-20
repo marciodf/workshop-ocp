@@ -1,4 +1,4 @@
 <?php
-echo "<h1>tDetran RJ abril v1</h1> ";
+echo "<h1> SEFAZ RJ v2</h1> ";
 echo $_SERVER['SERVER_ADDR'];
 ?>
